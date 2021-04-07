@@ -1,0 +1,7 @@
+SEP=,
+NAME,TYPE,LOCATION,
+"Bases","Cognitive Services","West US"
+"Bases","App Service plan","East US"
+"Bases-a143","App Service","East US"
+"Bases-ai","Application Insights","East US"
+"basesa143-asacdf5jqg6xfs6","Search service","East US"
